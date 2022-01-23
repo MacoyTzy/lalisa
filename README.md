@@ -1,9 +1,8 @@
 # LALISA
-a dedication web page for BLACKPINK's LISA &lt;3
+a dedication web page for BLACKPINK's LISA
 
-![](lalisa/assets/img/welcome_lisa_2.png)
+![alt text](https://i.ibb.co/BTCBZ5b/hehe.png?raw=true)
 
--
 LALISA Simple Website V1.0
 Languages used:
 - HTML5
