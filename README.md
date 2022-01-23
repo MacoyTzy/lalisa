@@ -18,3 +18,6 @@ Changelogs made during Beta:
 !Contributor(s)!: <br>
 @MacoyTzy <br>
 @Y4KNU <br>
+ 
+!NOTE!
+-THIS IS INITIAL ONLY
